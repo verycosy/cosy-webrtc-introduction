@@ -97,6 +97,8 @@ socket.on("icecandidate", async candidate => {
 
 ## DataChannel
 
+## 주요 이벤트들
+
 ---
 
 데이터 채널
